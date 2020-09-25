@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "muridPro"
+    }
+  },
+  "defaultProject": "muridPro",
+  "cli": {
+    "analytics": "22e2657e-e428-4d0d-a650-b5cc46255d25"
+  }
 }
